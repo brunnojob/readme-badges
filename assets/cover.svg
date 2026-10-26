@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">README Badges by Brunno Dev</title><desc id="desc">Dark cover with red accent, code brackets and badges for code, cloud and field.</desc>
+<rect width="1280" height="340" fill="#0A0A0A"/><path d="M0 0H12V340H0Z" fill="#B3001B"/>
+<g fill="none" stroke="#292929"><path d="M760 0V340M860 0V340M960 0V340M1060 0V340M1160 0V340M0 85H1280M0 170H1280M0 255H1280"/></g>
+<text x="64" y="66" fill="#B3001B" font-family="monospace" font-size="18" letter-spacing="4">BRUNNODEV / OPEN SOURCE</text>
+<text x="60" y="158" fill="#F2EFE9" font-family="Arial,sans-serif" font-size="66" font-weight="700">README BADGES</text>
+<text x="64" y="204" fill="#AAA7A3" font-family="Arial,sans-serif" font-size="23">Code. Cloud. Field. One clear signal.</text>
+<g font-family="monospace" font-size="16" text-anchor="middle"><rect x="64" y="255" width="134" height="36" rx="3" fill="#B3001B"/><text x="131" y="279" fill="#FFF">COPY READY</text><rect x="212" y="255" width="134" height="36" rx="3" fill="#242424"/><text x="279" y="279" fill="#F2EFE9">MIT LICENSE</text></g>
+<path d="M1005 106L951 170L1005 234M1127 106L1181 170L1127 234M1093 93L1041 247" fill="none" stroke="#B3001B" stroke-width="13"/>
+</svg>
